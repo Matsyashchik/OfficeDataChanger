@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/OfficeDataChanger/v16/Server/sqlite3
+/OfficeDataChanger/obj/Debug
+/OfficeDataChangerWPF/obj/Debug
+/OfficeDataChangerLibrary/obj
+/.vs/OfficeDataChanger/v16
