@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 
 namespace OfficeDataChangerLibrary
 {
-    public class FileWorker
+    public sealed class FileWorker
     {
         readonly string cachePath = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\OfficeDataChanger";
         readonly XmlDocument xmlDocCore = new XmlDocument();

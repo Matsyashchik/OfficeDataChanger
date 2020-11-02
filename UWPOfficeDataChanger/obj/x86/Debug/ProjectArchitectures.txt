@@ -1,0 +1,1 @@
+C:\Users\TUNDRA\source\repos\OfficeDataChanger\UWPOfficeDataChanger\UWPOfficeDataChanger.csproj;x86

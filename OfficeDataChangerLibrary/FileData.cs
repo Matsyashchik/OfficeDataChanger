@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OfficeDataChangerLibrary
 {
-    public class FileData
+    public sealed class FileData
     {
         public DateTime Created { get; set; }
         public DateTime Modified { get; set; }
